@@ -1,0 +1,7 @@
+{
+  "name": "Học Tốt Vật Lí 10 - AI",
+  "description": "An interactive AI-powered web application designed to help students learn 10th-grade physics through intelligent theory explanations, interactive simulations, AI-driven practice exercises, and a voice-controlled AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
